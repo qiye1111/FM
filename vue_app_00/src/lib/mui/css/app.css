@@ -1,0 +1,19 @@
+*{
+outline:0;
+}
+.mui-segmented-control .mui-control-item {
+	line-height: 50px;
+	width: 100%;
+}
+.mui-control-content{
+	display:block;
+}
+.mui-table-view-cell{
+	padding:11px 10px;;
+}
+/*购物车价格样式*/
+.app-cart .mui-card-content-inner .mui-media-body .mui-table-view-cell .mui-ellipsis .price{
+    font-size:18px;
+    color:red;
+    padding-top:10px;
+}
